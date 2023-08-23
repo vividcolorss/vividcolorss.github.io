@@ -3,4 +3,4 @@
 
 
 # Games
-Minecraft 1.8.8 [{Play}](/eaglercraft)
+Minecraft 1.8.8 [{Play}](/kraken/eaglercraft)
